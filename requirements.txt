@@ -1,0 +1,9 @@
+pypdf
+faiss-cpu
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+langchain-hub
+IPython
